@@ -1,2 +1,3 @@
 # Java_Ping_Pong_Game
-Used Technologies : JAVA Swing. 
+<b>Used Technologies :</b> JAVA Swing.<br>
+<b>IDE:</b> NetBeans
